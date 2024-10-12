@@ -1,0 +1,28 @@
+{
+  "portfolio": [
+    {
+      "cover": "/portfolio/1/one.png",
+      "title": "CRYPTOVERSE WEB APP",
+      "description": "Developed the web application where one can see crypto details, prices, crypto news and exchanges using reactjs, redux, redux-thunk middleware",
+      "url": "https://cyptoversewebapp.netlify.app"
+    },
+    {
+      "cover": "/portfolio/1/two.png",
+      "title": "Netflix Webapp",
+      "description": "Designed and built a feature-rich platform with a user-friendly interface, mirroring the functionality of a popular streaming serviceb and Integrated TMDB and GPT APIs to provide a vast library of movies and TV shows with robust authentication for secure access",
+      "url": "https://netflix-web-kappa.vercel.app/Browse/"
+    },
+    {
+      "cover": "/portfolio/1/three.png",
+      "title": "AI-Fintech-Invoice-Management-Application",
+      "description": "Developed the web application where one can go and check the details and reviews about any movies and shows details, using react js redux, redux-thunk middleware ",
+      "url": "https://github.com/raiankit12/AI-Fintech-Invoice-Management-Application"
+    },
+    {
+      "cover": "/portfolio/1/four.png",
+      "title": "Food Web APP",
+      "description": "Developed an social media web app where one can order food from your nearby restaurant",
+      "url": "https://github.com/raiankit12/Food-Web-Application"
+    }
+  ]
+}
